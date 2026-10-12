@@ -1,5 +1,5 @@
-# Meus projetos
-Primeiro repositório 
+# Tabuada em C
 
-Kin vagabundo me obrigando a vencer na vida, saindo da minha zona de conforto!
-Obrigado!
+Este programa permite gerar tabuadas de adição, subtração, multiplicação e divisão.
+
+Basta escolher a operação e digitar o número desejado para visualizar a tabuada correspondente.
